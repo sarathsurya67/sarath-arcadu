@@ -1,0 +1,16 @@
+package arrays1;
+
+public class F
+	{
+		public static void main(String[] args)
+			{
+				int[] x = new int[4];
+				System.out.println(x.length);// length is a property/attribute.
+												// returns length of array.
+				System.out.println("---------------");
+				for (int i = 0; i < x.length; i++)
+					{
+						System.out.println(x[i]);
+					}
+			}
+	}

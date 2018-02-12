@@ -1,0 +1,13 @@
+package strings5;
+
+import java.util.Calendar;
+
+public class J
+	{
+		public static void main(String[] args)
+			{
+				Calendar cal = Calendar.getInstance();
+				Date d1 = cal.getTime();
+				System.out.println(d1);
+			}
+	}

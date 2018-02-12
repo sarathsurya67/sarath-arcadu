@@ -1,0 +1,12 @@
+package skill_test;
+
+import skill_test.CalculatorMethods;;
+
+public class Calculator1
+	{
+		public static void main(String[] args)
+			{
+				int sum = add(10, 20);
+				System.out.println(sum);
+			}
+	}

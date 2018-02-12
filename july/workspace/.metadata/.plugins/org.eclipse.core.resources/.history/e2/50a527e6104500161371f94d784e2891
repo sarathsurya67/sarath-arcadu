@@ -1,0 +1,11 @@
+package skill_test;
+
+public class StringManipulations
+	{
+		public static void main(String[] args)
+			{
+				String s1 = new String("Sarath kumar Arcadu");
+				System.out.println(s1);
+				System.out.println(s1.length());
+			}
+	}

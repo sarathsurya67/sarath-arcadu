@@ -1,0 +1,11 @@
+package skill_test;
+
+public class Simple
+	{
+		public static void main(String[] args)
+			{
+				String s1 = "sarath";
+				String s2 = "sarath";
+				System.out.println(s1 == s2);
+			}
+	}

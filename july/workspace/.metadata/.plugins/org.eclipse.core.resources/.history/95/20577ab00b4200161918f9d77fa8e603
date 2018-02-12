@@ -1,0 +1,16 @@
+package Section1;
+
+public class W2
+	{
+		static int  test()
+			{
+				System.out.println("from test");
+				return 20;
+			}
+
+		public static void main(String[] args)
+			{
+				int i = 10 + test();
+				System.out.println(i);
+			}
+	}

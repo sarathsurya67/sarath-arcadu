@@ -1,0 +1,9 @@
+package skill_test;
+
+public class CalculatorMethods
+	{
+		public int add(int i, int j)
+			{
+				return "sum is : " + (i + j);
+			}
+	}
